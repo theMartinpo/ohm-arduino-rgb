@@ -493,7 +493,7 @@ namespace ohm_arduino_gui
 
         private void githubLink_LinkClicked_MPR(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/logchan/open-hardware-monitor-arduino");
+            System.Diagnostics.Process.Start("https://github.com/theMartinpo/ohm-arduino-rgb");
         }
 
         private void showWindowToolStripMenuItem_Click(object sender, EventArgs e)
