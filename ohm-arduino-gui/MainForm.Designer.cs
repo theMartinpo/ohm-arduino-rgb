@@ -467,7 +467,7 @@
             this.linkLabel1.TabIndex = 31;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Adapted by MPR";
-            this.githubLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.githubLink_LinkClicked_MPR);
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.githubLink_LinkClicked_MPR);
             // 
             // MainForm
             // 
