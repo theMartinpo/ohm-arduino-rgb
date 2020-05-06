@@ -17,3 +17,6 @@ Temperature data obtained from [Open Hardware Monitor](https://github.com/openha
 
 Icons made by [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha) from [www.flaticon.com](https://www.flaticon.com/) 
 is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+
+### Result
+[hardware_info_on_lcd_via_arduino](https://www.reddit.com/r/pcmods/comments/f7byul/hardware_info_on_lcd_via_arduino/)
